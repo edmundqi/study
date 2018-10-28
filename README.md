@@ -8,4 +8,4 @@ python, c/c++, scratch
 
 # Location
 
-Shanghai, China# study
+Shanghai, China
